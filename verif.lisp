@@ -1,0 +1,1 @@
+(defun g(L) (mapcon #'list L))
